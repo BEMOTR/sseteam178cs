@@ -8,6 +8,9 @@ public class Game {
 	public static Cell [][] map;
 	
 	public static void loadHeros(String filePath) {
+		/**for(;;) {
+			
+		}**/
 		
 	}
 }
